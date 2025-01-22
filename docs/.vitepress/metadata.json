@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Post 1",
+    "description": "My first post",
+    "path": "/blog/post1",
+    "title": "Post 1"
+  },
+  {
+    "name": "Post 2",
+    "description": "My second post",
+    "path": "/blog/post2",
+    "title": "Post 2"
+  },
+  {
+    "name": "January 14, 2025",
+    "description": "Getting started with NixOS",
+    "path": "/events/01142025",
+    "title": "January 14, 2025"
+  },
+  {
+    "name": "Post 1",
+    "description": "My first post",
+    "path": "/events/12102024",
+    "title": "Post 1"
+  },
+  {
+    "name": "BSDG Events",
+    "description": "Boise Software Developers Group Events",
+    "path": "/events/index",
+    "title": "BSDG Events"
+  }
+]
