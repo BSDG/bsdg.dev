@@ -9,7 +9,7 @@ Boise Software Developer Group, aka, BSDG, is a local organization of software d
 
 These meetings provide great opportunities for those who would like to learn about new technologies in person, meet and interact with other developers in the area. For those who are interested in giving presentations, these meetings provide opportunities to demonstrate skills, knowledge, and the experience of presenting information to a friendly audience. 
 
-Meetings are normally scheduled for the 2nd Tuesday of each month, 6:00 at Boise CodeWorks. Check the [BSDG Meetup page](/events) for information about the next meeting. 
+Meetings are normally scheduled for the 2nd Tuesday of each month, 6:00 at Boise CodeWorks. Check the [BSDG Meetup page](/events/index.html) for information about the next meeting. 
 
 If you are interested in presenting a technology of interest to you at a meeting, visit the [BSDG discord channel](https://discord.gg/FILL_ME_IN) and post information about the topic you’d like to present!
 
