@@ -1,6 +1,8 @@
 ---
 title: Home
 description: Boise Software Developers Group
+layout: doc
+outline: false
 ---
 
 <center style="margin: 1em 0;">
@@ -11,8 +13,6 @@ description: Boise Software Developers Group
 
 ## Welcome to BSDG!
 
-The Boise Software Developers Group (BSDG) is a community of software developers in the Boise, Idaho area. We meet monthly to discuss software development topics, share knowledge, and network with other developers.
+Boise Software Developers Group, Inc. (BSDG) is a state and federal 501(c)3 non-profit organization with the mission of supporting and nurturing technical communities in and around Boise, ID.
 
-<!--@include: ./about.md-->
-
-<!--@include: ./board.md-->
+Born out of a longtime usergroup (BSDG) and a desire to bring events like [Boise Code Camp](https://boisecodecamp.com) back to the valley, the non-profit was founded in early 2024 to help our communities thrive again.
