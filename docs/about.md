@@ -15,4 +15,4 @@ If you are interested in presenting a technology of interest to you at a meeting
 
 BSDG has operated as an informal organization since its start back in the late 1990s. In 2024, it formally organized as an Idaho Nonprofit entity and a Federal 501(c)(3) non-profit organization. In that process, it has also assumed organizational control of [Boise Code Camp](https://boisecodecamp.com), a yearly event held in the spring. BSDG helps to organize other events to serve local area developers. 
 
- 
+ <!--@include: ./board.md-->
