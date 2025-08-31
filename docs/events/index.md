@@ -7,8 +7,10 @@ BSDG hosts a variety of events to promote software development in the Boise area
 
 ## User Groups
 
-* [Boise Software Developers Group](https://www.meetup.com/bsdg-meetup/)
-  + BSDG meets monthly to discuss software development topics, share knowledge, and network with other developers. We meet the 2nd Tuesday of each month at 6:00 PM at [CodeWorks](https://boisecodeworks.com)
+Full group details of BSDG Inc, supported groups can be found here
+
+<GroupCards />
+
 
 * [UXDX Boise](https://www.meetup.com/uxdx-boise/)
   + Welcome to UXDX Boise, a meetup group for all those interested in User Experience (UX) and Design (DX) in Boise, Idaho. Whether you're a designer, developer, product manager, or just curious about UXDX, this group is for you. Join us for workshops, discussions, and networking events to learn and connect with like-minded professionals in the Treasure Valley.
