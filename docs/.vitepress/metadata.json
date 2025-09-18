@@ -12,21 +12,14 @@
     "title": "Post 2"
   },
   {
-    "name": "January 14, 2025",
-    "description": "Getting started with NixOS",
-    "path": "/events/01142025",
-    "title": "January 14, 2025"
-  },
-  {
-    "name": "Post 1",
-    "description": "My first post",
-    "path": "/events/12102024",
-    "title": "Post 1"
-  },
-  {
     "name": "BSDG Events",
     "description": "Boise Software Developers Group Events",
     "path": "/events/index",
     "title": "BSDG Events"
+  },
+  {
+    "name": "index",
+    "description": "",
+    "path": "/groups/index"
   }
 ]

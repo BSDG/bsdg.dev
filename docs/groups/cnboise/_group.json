@@ -1,0 +1,11 @@
+{
+    "fullName": "Cloud Native Boise",
+    "shortName": "cn-boise",
+    "status": "active",
+    "isSupported": true,
+    "organizors": [
+        "ryan@rdc.dev"
+    ],
+    "description": "",
+    "discordRole": ""
+}
